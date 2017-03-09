@@ -323,12 +323,16 @@ def graph_haplotype_network(h,
                             engine='neato',
                             format='png',
                             mode='major',
-                            overlap=False,
+                            overlap=True,
                             splines=False,
-                            node_size_factor=0.02,
-                            edge_length=.5,
+                            node_size_factor=0.01,
+                            node_attrs=None,
+                            edge_length=0.5,
+                            edge_weight=10,
+                            edge_attrs=None,
                             anon_width=0.07,
                             anon_fillcolor='white',
+                            anon_node_attrs=None,
                             intermediate_nodes=True,
                             max_dist=5,
                             ):
@@ -376,6 +380,10 @@ def graph_haplotype_network(h,
     graph.attr('graph', overlap=str(overlap).lower(), splines=str(splines).lower(), mode=mode)
 
     # add the main nodes
+    if node_attrs is None:
+        node_attrs = dict()
+    node_attrs.setdefault('fixedsize', 'true')
+    node_attrs.setdefault('shape', 'circle')
     for i, n in enumerate(hap_counts):
 
         # calculate width from number of items - make width proportional to area
@@ -397,9 +405,19 @@ def graph_haplotype_network(h,
             fillcolor = hap_colors
 
         # add graph node
-        graph.node(str(i), shape='circle', width=str(width), style=style, fillcolor=fillcolor, fixedsize='true', label='')
+        graph.node(str(i), width=str(width), style=style, fillcolor=fillcolor, label='', **node_attrs)
         
     # add edges
+    if edge_attrs is None:
+        edge_attrs = dict()
+    edge_attrs.setdefault('style', 'normal')
+    edge_attrs.setdefault('weight', str(edge_weight))
+    if anon_node_attrs is None:
+        anon_node_attrs = dict()
+    anon_node_attrs.setdefault('fixedsize', 'true')
+    anon_node_attrs.setdefault('shape', 'circle')
+    anon_node_attrs.setdefault('style', 'filled')
+    anon_node_attrs.setdefault('fillcolor', anon_fillcolor)
     for i in range(mst.shape[0]):
 
         for j in range(mst.shape[1]):
@@ -423,22 +441,28 @@ def graph_haplotype_network(h,
 
                     # add first intermediate node
                     nid = 'anon_{}_{}_{}'.format(i, j, 0)
-                    graph.node(nid, shape='circle', style='filled', fillcolor=anon_fillcolor, fixedsize='true', label='', width=str(anon_width))
+                    graph.node(nid, label='', width=str(anon_width), **anon_node_attrs)
 
                     # add edge from node i to first intermediate
                     el = edge_length + width_i / 2 + anon_width / 2
-                    graph.edge(str(i), 'anon_{}_{}_{}'.format(i, j, 0), **{'len': str(el)})
+                    kwargs = {'len': str(el)}
+                    kwargs.update(edge_attrs)
+                    graph.edge(str(i), 'anon_{}_{}_{}'.format(i, j, 0), **kwargs)
 
                     # add further intermediate nodes as necessary
                     for k in range(1, sep-1):
                         nid = 'anon_{}_{}_{}'.format(i, j, k)
-                        graph.node(nid, shape='circle', style='filled', fillcolor=anon_fillcolor, fixedsize='true', label='', width=str(anon_width))
+                        graph.node(nid, label='', width=str(anon_width), **anon_node_attrs)
                         el = edge_length + anon_width
-                        graph.edge('anon_{}_{}_{}'.format(i, j, k-1), 'anon_{}_{}_{}'.format(i, j, k), **{'len': str(el)})
+                        kwargs = {'len': str(el)}
+                        kwargs.update(edge_attrs)
+                        graph.edge('anon_{}_{}_{}'.format(i, j, k-1), 'anon_{}_{}_{}'.format(i, j, k), **kwargs)
 
                     # add edge from final intermediate node to node j
                     el = edge_length + anon_width / 2 + width_j / 2 
-                    graph.edge('anon_{}_{}_{}'.format(i, j, sep-2), str(j), **{'len': str(el)})
+                    kwargs = {'len': str(el)}
+                    kwargs.update(edge_attrs)
+                    graph.edge('anon_{}_{}_{}'.format(i, j, sep-2), str(j), **kwargs)
 
                 else:
 
@@ -446,7 +470,9 @@ def graph_haplotype_network(h,
 
                     # N.B., adjust edge length so we measure distance from edge of circle rather than center
                     el = (edge_length * sep) + width_i / 2 + width_j / 2
-                    graph.edge(str(i), str(j), **{'len': str(el)})
+                    kwargs = {'len': str(el)}
+                    kwargs.update(edge_attrs)
+                    graph.edge(str(i), str(j), **kwargs)
 
     return graph
 ```

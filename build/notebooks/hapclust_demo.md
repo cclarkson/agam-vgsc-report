@@ -452,9 +452,12 @@ graph
 
 ```python
 # plot a network for just a single cluster that we extracted earlier from the dendrogram
+cluster_idx = 17
+dend_start, dend_stop, cluster_hap_indices = cluster_spans[cluster_idx]
+cluster_haps = h_vgsc_995S.take(cluster_hap_indices, axis=1)
 cluster_hap_pops = hap_pops_995S[cluster_hap_indices]
 cluster_hap_colors = np.array([pop_colors[p] for p in cluster_hap_pops])
-graph = graph_haplotype_network(cluster_haps, hap_colors=cluster_hap_colors)
+graph = graph_haplotype_network(cluster_haps, hap_colors=cluster_hap_colors, mode='KK', edge_weight=100)
 graph
 ```
 
@@ -462,6 +465,189 @@ graph
 
 
 ![svg](hapclust_demo_files/hapclust_demo_38_0.svg)
+
+
+
+
+```python
+# plot a network for just a single cluster that we extracted earlier from the dendrogram
+cluster_idx = 14
+dend_start, dend_stop, cluster_hap_indices = cluster_spans[cluster_idx]
+cluster_haps = h_vgsc_995S.take(cluster_hap_indices, axis=1)
+cluster_hap_pops = hap_pops_995S[cluster_hap_indices]
+cluster_hap_colors = np.array([pop_colors[p] for p in cluster_hap_pops])
+graph = graph_haplotype_network(cluster_haps, hap_colors=cluster_hap_colors, mode='KK', edge_weight=100)
+graph
+```
+
+
+
+
+![svg](hapclust_demo_files/hapclust_demo_39_0.svg)
+
+
+
+
+```python
+# plot a network for just a single cluster that we extracted earlier from the dendrogram
+cluster_idx = 12
+dend_start, dend_stop, cluster_hap_indices = cluster_spans[cluster_idx]
+cluster_haps = h_vgsc_995S.take(cluster_hap_indices, axis=1)
+cluster_hap_pops = hap_pops_995S[cluster_hap_indices]
+cluster_hap_colors = np.array([pop_colors[p] for p in cluster_hap_pops])
+graph = graph_haplotype_network(cluster_haps, hap_colors=cluster_hap_colors, mode='KK', edge_weight=100)
+graph
+```
+
+
+
+
+![svg](hapclust_demo_files/hapclust_demo_40_0.svg)
+
+
+
+
+```python
+# plot a network for just a single cluster that we extracted earlier from the dendrogram
+cluster_idx = 9
+dend_start, dend_stop, cluster_hap_indices = cluster_spans[cluster_idx]
+cluster_haps = h_vgsc_995S.take(cluster_hap_indices, axis=1)
+cluster_hap_pops = hap_pops_995S[cluster_hap_indices]
+cluster_hap_colors = np.array([pop_colors[p] for p in cluster_hap_pops])
+graph = graph_haplotype_network(cluster_haps, hap_colors=cluster_hap_colors, mode='KK', edge_weight=100)
+graph
+```
+
+
+
+
+![svg](hapclust_demo_files/hapclust_demo_41_0.svg)
+
+
+
+
+```python
+# plot a network for just a single cluster that we extracted earlier from the dendrogram
+cluster_idx = 2
+dend_start, dend_stop, cluster_hap_indices = cluster_spans[cluster_idx]
+cluster_haps = h_vgsc_995S.take(cluster_hap_indices, axis=1)
+cluster_hap_pops = hap_pops_995S[cluster_hap_indices]
+cluster_hap_colors = np.array([pop_colors[p] for p in cluster_hap_pops])
+graph = graph_haplotype_network(cluster_haps, hap_colors=cluster_hap_colors, mode='KK', edge_weight=100)
+graph
+```
+
+
+
+
+![svg](hapclust_demo_files/hapclust_demo_42_0.svg)
+
+
+
+
+```python
+cut_height = 4
+fig, ax_dend, ax_freq, cluster_spans, leaf_obs = fig_haplotypes_clustered(h_vgsc_995F, orientation='left', cut_height=cut_height, dpi=150, 
+                                                                          highlight_clusters=5, label_clusters=5)
+```
+
+
+![png](hapclust_demo_files/hapclust_demo_43_0.png)
+
+
+
+```python
+# plot a network for just a single cluster that we extracted earlier from the dendrogram
+cluster_idx = 4
+dend_start, dend_stop, cluster_hap_indices = cluster_spans[cluster_idx]
+cluster_haps = h_vgsc_995F.take(cluster_hap_indices, axis=1)
+cluster_hap_pops = hap_pops_995F[cluster_hap_indices]
+cluster_hap_colors = np.array([pop_colors[p] for p in cluster_hap_pops])
+graph = graph_haplotype_network(cluster_haps, hap_colors=cluster_hap_colors, mode='KK', edge_weight=100)
+graph
+```
+
+
+
+
+![svg](hapclust_demo_files/hapclust_demo_44_0.svg)
+
+
+
+
+```python
+# plot a network for just a single cluster that we extracted earlier from the dendrogram
+cluster_idx = 7
+dend_start, dend_stop, cluster_hap_indices = cluster_spans[cluster_idx]
+cluster_haps = h_vgsc_995F.take(cluster_hap_indices, axis=1)
+cluster_hap_pops = hap_pops_995F[cluster_hap_indices]
+cluster_hap_colors = np.array([pop_colors[p] for p in cluster_hap_pops])
+graph = graph_haplotype_network(cluster_haps, hap_colors=cluster_hap_colors, mode='KK', edge_weight=100)
+graph
+```
+
+
+
+
+![svg](hapclust_demo_files/hapclust_demo_45_0.svg)
+
+
+
+
+```python
+# plot a network for just a single cluster that we extracted earlier from the dendrogram
+cluster_idx = 8
+dend_start, dend_stop, cluster_hap_indices = cluster_spans[cluster_idx]
+cluster_haps = h_vgsc_995F.take(cluster_hap_indices, axis=1)
+cluster_hap_pops = hap_pops_995F[cluster_hap_indices]
+cluster_hap_colors = np.array([pop_colors[p] for p in cluster_hap_pops])
+graph = graph_haplotype_network(cluster_haps, hap_colors=cluster_hap_colors, mode='KK', edge_weight=100)
+graph
+```
+
+
+
+
+![svg](hapclust_demo_files/hapclust_demo_46_0.svg)
+
+
+
+
+```python
+# plot a network for just a single cluster that we extracted earlier from the dendrogram
+cluster_idx = 12
+dend_start, dend_stop, cluster_hap_indices = cluster_spans[cluster_idx]
+cluster_haps = h_vgsc_995F.take(cluster_hap_indices, axis=1)
+cluster_hap_pops = hap_pops_995F[cluster_hap_indices]
+cluster_hap_colors = np.array([pop_colors[p] for p in cluster_hap_pops])
+graph = graph_haplotype_network(cluster_haps, hap_colors=cluster_hap_colors, mode='KK', edge_weight=50)
+graph
+```
+
+
+
+
+![svg](hapclust_demo_files/hapclust_demo_47_0.svg)
+
+
+
+
+```python
+# plot a network for just a single cluster that we extracted earlier from the dendrogram
+cluster_idx = 16
+dend_start, dend_stop, cluster_hap_indices = cluster_spans[cluster_idx]
+cluster_haps = h_vgsc_995F.take(cluster_hap_indices, axis=1)
+cluster_hap_pops = hap_pops_995F[cluster_hap_indices]
+cluster_hap_colors = np.array([pop_colors[p] for p in cluster_hap_pops])
+graph = graph_haplotype_network(cluster_haps, hap_colors=cluster_hap_colors, mode='KK', 
+                                edge_weight=20, overlap='true', splines=False)
+graph
+```
+
+
+
+
+![svg](hapclust_demo_files/hapclust_demo_48_0.svg)
 
 
 
