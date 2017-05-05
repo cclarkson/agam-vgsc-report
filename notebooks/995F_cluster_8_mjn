@@ -1,0 +1,18 @@
+digraph {
+	graph [mode=KK overlap=true splines=false]
+	0 [label="" fillcolor=dodgerblue3 fixedsize=true fontname=monospace fontsize=12 shape=circle style=filled width=0.59160797831]
+	1 [label="" fillcolor=dodgerblue3 fixedsize=true fontname=monospace fontsize=12 shape=circle style=filled width=0.244948974278]
+	2 [label="" fillcolor=dodgerblue3 fixedsize=true fontname=monospace fontsize=12 shape=circle style=filled width=0.244948974278]
+	3 [label="" fillcolor=dodgerblue3 fixedsize=true fontname=monospace fontsize=12 shape=circle style=filled width=0.1]
+	4 [label="" fillcolor=dodgerblue3 fixedsize=true fontname=monospace fontsize=12 shape=circle style=filled width=0.1]
+	5 [label="" fillcolor=dodgerblue3 fixedsize=true fontname=monospace fontsize=12 shape=circle style=filled width=0.1]
+	6 [label="" fillcolor=white fixedsize=true fontname=monospace fontsize=12 shape=circle style=filled width=0.07]
+		0 -> 4 [label="" dir=none fontname=monospace fontsize=12 len=0.845803989155 style=normal weight=12]
+		0 -> 5 [label="" dir=none fontname=monospace fontsize=12 len=0.845803989155 style=normal weight=12]
+	anon_0_6_0 [label="" fillcolor=white fixedsize=true fontname=monospace fontsize=12 shape=circle style=filled width=0.07]
+		anon_0_6_0 -> 0 [label=D466H arrowsize=0.5 fontname=monospace fontsize=12 len=0.830803989155 style=normal weight=12]
+		6 -> anon_0_6_0 [label=I1940T arrowsize=0.5 fontname=monospace fontsize=12 len=0.5700000000000001 style=normal weight=12]
+		1 -> 3 [label="" dir=none fontname=monospace fontsize=12 len=0.672474487139 style=normal weight=12]
+		6 -> 1 [label=S1683I arrowsize=0.5 fontname=monospace fontsize=12 len=0.657474487139 style=normal weight=12]
+		6 -> 2 [label=G317S arrowsize=0.5 fontname=monospace fontsize=12 len=0.657474487139 style=normal weight=12]
+}
