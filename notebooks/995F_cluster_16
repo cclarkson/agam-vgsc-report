@@ -3,7 +3,7 @@ digraph {
 	0 [label="" fillcolor="deepskyblue;0.78:cadetblue1;0.22" fixedsize=true fontname=monospace fontsize=10 shape=circle style=wedged width=0.707106781187]
 	1 [label="" fillcolor=deepskyblue fixedsize=true fontname=monospace fontsize=10 shape=circle style=filled width=0.1]
 	2 [label="" fillcolor=firebrick1 fixedsize=true fontname=monospace fontsize=10 shape=circle style=filled width=0.387298334621]
-	3 [label="" fillcolor="firebrick1;0.34444444444444444:dodgerblue3;0.28888888888888886:deepskyblue;0.3111111111111111:cadetblue1;0.05555555555555555" fixedsize=true fontname=monospace fontsize=10 shape=circle style=wedged width=0.948683298051]
+	3 [label="" fillcolor="firebrick1;0.34444444444444444:deepskyblue;0.3111111111111111:dodgerblue3;0.28888888888888886:cadetblue1;0.05555555555555555" fixedsize=true fontname=monospace fontsize=10 shape=circle style=wedged width=0.948683298051]
 	4 [label="" fillcolor="firebrick1;0.1282051282051282:deepskyblue;0.5256410256410257:cadetblue1;0.34615384615384615" fixedsize=true fontname=monospace fontsize=10 shape=circle style=wedged width=0.883176086633]
 	5 [label="" fillcolor=firebrick1 fixedsize=true fontname=monospace fontsize=10 shape=circle style=filled width=0.5]
 	6 [label="" fillcolor="firebrick1;0.043010752688172046:brown;0.8924731182795699:deepskyblue;0.06451612903225806" fixedsize=true fontname=monospace fontsize=10 shape=circle style=wedged width=0.964365076099]
