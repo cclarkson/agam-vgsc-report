@@ -1,0 +1,8 @@
+digraph {
+	graph [mode=KK overlap=true splines=false]
+	0 [label="" fillcolor=dodgerblue3 fixedsize=true fontname=monospace fontsize=12 shape=circle style=filled width=0.509901951359]
+	1 [label="" fillcolor=dodgerblue3 fixedsize=true fontname=monospace fontsize=12 shape=circle style=filled width=0.244948974278]
+	2 [label="" fillcolor=dodgerblue3 fixedsize=true fontname=monospace fontsize=12 shape=circle style=filled width=0.173205080757]
+		0 -> 2 [label="" dir=none fontname=monospace fontsize=12 len=0.841553516058 style=normal weight=12]
+		1 -> 2 [label="" dir=none fontname=monospace fontsize=12 len=0.709077027518 style=normal weight=12]
+}
