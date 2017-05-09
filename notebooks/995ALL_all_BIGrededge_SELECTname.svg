@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="995ALL_all_rededge_name.svg">
+   sodipodi:docname="995ALL_all_BIGrededge_SELECTname.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.66245342"
-     inkscape:cx="541.72737"
-     inkscape:cy="559.91245"
+     inkscape:zoom="0.96"
+     inkscape:cx="616.5785"
+     inkscape:cy="737.53217"
      inkscape:document-units="px"
-     inkscape:current-layer="g9920"
+     inkscape:current-layer="g8186"
      showgrid="false"
      fit-margin-top="10"
      fit-margin-left="10"
@@ -218,7 +218,7 @@
           <title
              id="title3480">6-&gt;19</title>
           <path
-             style="fill:#ff0000;stroke:#ff0000"
+             style="fill:#ff0000;stroke:#ff0000;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dasharray:none"
              inkscape:connector-curvature="0"
              d="m -76.552579,-29.408305 c -14.6883,5.6276 -31.375601,12.0208 -43.204601,16.55307"
              id="path3482" />
@@ -227,12 +227,6 @@
              points="-118.963,-7.68871 -117.71,-4.42037 -117.71,-4.42037 -123.006,-4.26562 "
              id="polygon3484"
              transform="translate(-1.5041789,-6.5181084)" />
-          <text
-             style="font-size:12px;text-anchor:middle;font-family:monospace"
-             x="-123.91283"
-             y="-22.024839"
-             font-size="12.00"
-             id="text3486">E1597G</text>
         </g>
         <g
            id="node1"
@@ -301,7 +295,7 @@
           <title
              id="title3017">0-&gt;24</title>
           <path
-             style="fill:none;stroke:#ff0000"
+             style="fill:none;stroke:#ff0000;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dasharray:none"
              inkscape:connector-curvature="0"
              d="M -143.568,63.4591 C -156.67,77.1936 -173.67,95.014 -182.571,104.344"
              id="path3019" />
@@ -309,12 +303,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="-186.047,107.988 -183.862,103.163 -181.33,105.578 -181.33,105.578 "
              id="polygon3021" />
-          <text
-             style="font-size:12px;text-anchor:middle;font-family:monospace"
-             x="-178.569"
-             y="80.501602"
-             font-size="12.00"
-             id="text3023">P55L</text>
         </g>
         <g
            id="node59"
@@ -462,7 +450,7 @@
           <title
              id="title3069">2-&gt;60</title>
           <path
-             style="fill:none;stroke:#ff0000"
+             style="fill:none;stroke:#ff0000;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dasharray:none"
              inkscape:connector-curvature="0"
              d="m -85.7056,59.5353 c -2.9266,14.5097 -7.408,36.7287 -9.796,48.5677"
              id="path3071" />
@@ -470,12 +458,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="-96.5401,113.253 -97.2669,108.005 -93.836,108.697 -93.836,108.697 "
              id="polygon3073" />
-          <text
-             style="font-size:12px;text-anchor:middle;font-family:monospace"
-             x="-115.10348"
-             y="93.414772"
-             font-size="12.00"
-             id="text3075">P1874S</text>
         </g>
         <g
            id="node11"
@@ -534,7 +516,7 @@
           <title
              id="title3093">3-&gt;16</title>
           <path
-             style="fill:#ff0000;stroke:#ff0000"
+             style="fill:#ff0000;stroke:#ff0000;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dasharray:none"
              inkscape:connector-curvature="0"
              d="m 110.3,-24.5993 c 2.917,7.4448 5.778,14.74506 7.863,20.06509"
              id="path3095" />
@@ -542,12 +524,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="120.087,0.374511 116.633,-3.64225 119.892,-4.91933 119.892,-4.91933 "
              id="polygon3097" />
-          <text
-             style="font-size:12px;text-anchor:middle;font-family:monospace"
-             x="95.2314"
-             y="-4.9667602"
-             font-size="12.00"
-             id="text3099">M704V</text>
         </g>
         <g
            id="node19"
@@ -668,7 +644,7 @@
           <title
              id="title3137">3-&gt;29</title>
           <path
-             style="fill:#ff0000;stroke:#ff0000"
+             style="fill:#ff0000;stroke:#ff0000;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dasharray:none"
              inkscape:connector-curvature="0"
              d="m 87.838875,-89.353859 c -2.221803,-7.195087 -4.385612,-14.202301 -5.98351,-19.376721"
              id="path3139" />
@@ -678,12 +654,6 @@
              id="polygon3141"
              transform="matrix(0.98428567,-0.17658345,0.17658345,0.98428567,8.8977998,17.527177)"
              inkscape:transform-center-x="2.7493657" />
-          <text
-             style="font-size:12px;text-anchor:middle;font-family:monospace"
-             x="63.218594"
-             y="-92.350891"
-             font-size="12.00"
-             id="text3143">V1303A</text>
         </g>
         <g
            id="node31"
@@ -1272,7 +1242,7 @@
           <title
              id="title3332">5-&gt;60</title>
           <path
-             style="fill:none;stroke:#ff0000;stroke-dasharray:5, 2"
+             style="fill:none;stroke:#ff0000;stroke-dasharray:4.79833056,2.39916528;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dashoffset:0"
              inkscape:connector-curvature="0"
              d="m -67.5907,81.2902 c -8.0513,9.5111 -18.3467,21.6728 -24.4145,28.8408"
              id="path3334" />
@@ -1280,12 +1250,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="-93.5562,109.255 -90.8848,111.516 -90.8848,111.516 -95.4511,114.202 "
              id="polygon3336" />
-          <text
-             style="font-size:12px;text-anchor:middle;font-family:monospace"
-             x="-71.641815"
-             y="122.89684"
-             font-size="12.00"
-             id="text3338">A1934V</text>
         </g>
         <g
            id="node7"
@@ -1328,7 +1292,7 @@
           <title
              id="title3352">6-&gt;0</title>
           <path
-             style="fill:none;stroke:#ff0000"
+             style="fill:none;stroke:#ff0000;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dasharray:none"
              inkscape:connector-curvature="0"
              d="m -67.5711,-11.1115 c -11.42,10.97075 -24.8462,23.8687 -35.9179,34.5045"
              id="path3354" />
@@ -1350,7 +1314,7 @@
           <title
              id="title3361">6-&gt;2</title>
           <path
-             style="fill:none;stroke:#ff0000"
+             style="fill:none;stroke:#ff0000;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dasharray:none"
              inkscape:connector-curvature="0"
              d="M -58.0936,-4.10573 C -63.5296,6.78713 -69.4478,18.6462 -74.139,28.0466"
              id="path3363" />
@@ -1368,20 +1332,21 @@
         <g
            id="edge8"
            class="edge"
-           transform="translate(-31.988877,4.7983305)">
+           transform="translate(-31.988877,4.7983305)"
+           style="stroke-width:2.39916528;stroke-miterlimit:4;stroke-dasharray:none">
           <title
              id="title3370">6-&gt;3</title>
           <path
-             style="fill:none;stroke:#ff0000"
+             style="fill:none;stroke:#ff0000;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dasharray:none"
              inkscape:connector-curvature="0"
              d="M -8.28416,-40.2778 C 12.0201,-43.3651 37.7913,-47.2837 58.8521,-50.4861"
              id="path3372" />
           <polygon
-             style="fill:#ff0000;stroke:#ff0000"
+             style="fill:#ff0000;stroke:#ff0000;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dasharray:none"
              points="63.8213,-51.2417 59.1412,-48.7599 58.615,-52.2201 58.615,-52.2201 "
              id="polygon3374" />
           <text
-             style="font-size:12px;text-anchor:middle;font-family:monospace"
+             style="font-size:12px;text-anchor:middle;font-family:monospace;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dasharray:none"
              x="42.781914"
              y="-34.282421"
              font-size="12.00"
@@ -1393,8 +1358,14 @@
            transform="matrix(0.92602193,0,0,0.95717478,-41.928039,-0.09311338)">
           <title
              id="title3379">6-&gt;4</title>
+          <text
+             style="font-size:12px;text-anchor:middle;font-family:monospace"
+             x="13.365392"
+             y="-78.219261"
+             font-size="12.00"
+             id="text3385">P1874L</text>
           <path
-             style="fill:none;stroke:#ff0000;stroke-width:0.87856221"
+             style="fill:none;stroke:#ff0000;stroke-width:2.54831968;stroke-miterlimit:4;stroke-dasharray:none"
              inkscape:connector-curvature="0"
              d="m -23.004109,-65.138251 c 9.906923,-15.29972 20.9161211,-32.301783 30.9901421,-47.859559"
              id="path3381" />
@@ -1403,12 +1374,6 @@
              points="-11.5871,-97.0587 -14.755,-98.547 -14.755,-98.547 -11.045,-102.328 "
              id="polygon3383"
              transform="matrix(0.98886195,0.15430567,-0.14990104,0.9878724,3.0209526,-9.3136436)" />
-          <text
-             style="font-size:12px;text-anchor:middle;font-family:monospace"
-             x="9.9109526"
-             y="-76.548264"
-             font-size="12.00"
-             id="text3385">P1874L</text>
         </g>
         <g
            id="edge33"
@@ -1417,7 +1382,7 @@
           <title
              id="title3388">6-&gt;5</title>
           <path
-             style="fill:none;stroke:#ff0000"
+             style="fill:none;stroke:#ff0000;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dasharray:none"
              inkscape:connector-curvature="0"
              d="M -47.0921,-0.633367 C -49.0007,14.1547 -51.1807,31.0462 -52.8919,44.3054"
              id="path3390" />
@@ -1427,8 +1392,8 @@
              id="polygon3392" />
           <text
              style="font-size:12px;text-anchor:middle;font-family:monospace"
-             x="-29.676054"
-             y="43.245834"
+             x="-48.00301"
+             y="41.579746"
              font-size="12.00"
              id="text3394">P1874S</text>
         </g>
@@ -1458,7 +1423,7 @@
           <title
              id="title3402">6-&gt;7</title>
           <path
-             style="fill:none;stroke:#ff0000"
+             style="fill:none;stroke:#ff0000;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dasharray:none"
              inkscape:connector-curvature="0"
              d="m -74.1411,-49.4171 c -10.5441,-4.8097 -21.75,-9.9213 -30.1869,-13.7698"
              id="path3404" />
@@ -1466,12 +1431,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="-109.192,-65.4059 -103.917,-64.9229 -105.37,-61.7386 -105.37,-61.7386 "
              id="polygon3406" />
-          <text
-             style="font-size:12px;text-anchor:middle;font-family:monospace"
-             x="-112.235"
-             y="-46.702"
-             font-size="12.00"
-             id="text3408">K1603T</text>
         </g>
         <g
            id="node9"
@@ -1499,7 +1458,7 @@
           <title
              id="title3416">6-&gt;8</title>
           <path
-             style="fill:none;stroke:#ff0000"
+             style="fill:none;stroke:#ff0000;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dasharray:none"
              inkscape:connector-curvature="0"
              d="m -43.6127,-69.6288 c -0.5967,-21.4299 -1.325,-47.5882 -1.7344,-62.2922"
              id="path3418" />
@@ -1507,12 +1466,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="-45.4923,-137.134 -43.6037,-132.184 -47.1023,-132.087 -47.1023,-132.087 "
              id="polygon3420" />
-          <text
-             style="font-size:12px;text-anchor:middle;font-family:monospace"
-             x="-65.725021"
-             y="-108.93823"
-             font-size="12.00"
-             id="text3422">L1667M</text>
         </g>
         <g
            id="node14"
@@ -1569,7 +1522,7 @@
           <title
              id="title3448">6-&gt;14</title>
           <path
-             style="fill:none;stroke:#ff0000"
+             style="fill:none;stroke:#ff0000;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dasharray:none"
              inkscape:connector-curvature="0"
              d="M -68.5255,-58.2451 C -90.0188,-77.51 -119.303,-103.758 -133.585,-116.56"
              id="path3450" />
@@ -1577,12 +1530,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="-137.511,-120.078 -132.619,-118.044 -134.955,-115.438 -134.955,-115.438 "
              id="polygon3452" />
-          <text
-             style="font-size:12px;text-anchor:middle;font-family:monospace"
-             x="-139.31163"
-             y="-94.816582"
-             font-size="12.00"
-             id="text3454">T791M</text>
         </g>
         <g
            id="node18"
@@ -1610,7 +1557,7 @@
           <title
              id="title3462">6-&gt;17</title>
           <path
-             style="fill:none;stroke:#ff0000;stroke-width:1.01682067"
+             style="fill:none;stroke:#ff0000;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dasharray:none"
              inkscape:connector-curvature="0"
              d="m -70.936413,-15.399731 c -3.295485,1.992897 -6.506234,3.934542 -9.606807,5.8095725"
              id="path3464" />
@@ -1619,12 +1566,6 @@
              points="-67.8527,-6.28917 -67.8527,-6.28917 -72.5786,-3.89558 -70.3769,-8.71381 "
              id="polygon3466"
              transform="matrix(0.9644786,0.264161,-0.264161,0.9644786,-14.895826,15.640231)" />
-          <text
-             style="font-size:12px;text-anchor:middle;font-family:monospace"
-             x="-92.923271"
-             y="-11.095145"
-             font-size="12.00"
-             id="text3468">N1345I</text>
         </g>
         <g
            id="node20"
@@ -1658,7 +1599,7 @@
         <g
            id="node27"
            class="node"
-           transform="translate(-31.988877,4.7983305)">
+           transform="translate(-31.988877,-3.139614)">
           <title
              id="title3489">26</title>
           <ellipse
@@ -1714,16 +1655,10 @@
              points="-100.836,-123.03 -96.6181,-119.825 -99.5374,-117.894 -99.5374,-117.894 "
              id="polygon3516" />
           <path
-             style="fill:none;stroke:#ff0000"
+             style="fill:none;stroke:#ff0000;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dasharray:none"
              inkscape:connector-curvature="0"
              d="m -61.7282,-63.8987 c -11.8817,-17.9653 -26.683,-40.3453 -36.299,-54.8843"
              id="path3514" />
-          <text
-             style="font-size:12px;text-anchor:middle;font-family:monospace"
-             x="-44.844269"
-             y="-120.81333"
-             font-size="12.00"
-             id="text3518">V1853I</text>
         </g>
         <g
            id="node48"
@@ -2104,7 +2039,7 @@
           <title
              id="title3640">14-&gt;15</title>
           <path
-             style="fill:none;stroke:#ff0000"
+             style="fill:none;stroke:#ff0000;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dasharray:none"
              inkscape:connector-curvature="0"
              d="m -148.17,-126.199 c -9.392,-3.087 -27.949,-9.185 -42.821,-14.073"
              id="path3642" />
@@ -2145,7 +2080,7 @@
           <title
              id="title3654">14-&gt;61</title>
           <path
-             style="fill:none;stroke:#ff0000"
+             style="fill:none;stroke:#ff0000;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dasharray:none"
              inkscape:connector-curvature="0"
              d="m -142.005,-130.473 c 0.187,-10.019 0.554,-29.631 0.758,-40.538"
              id="path3656" />
@@ -2153,12 +2088,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="-141.153,-176.059 -139.497,-171.027 -142.996,-171.093 -142.996,-171.093 "
              id="polygon3658" />
-          <text
-             style="font-size:12px;text-anchor:middle;font-family:monospace"
-             x="-164.62601"
-             y="-154.142"
-             font-size="12.00"
-             id="text3660">V1853I</text>
         </g>
         <g
            id="node69"
@@ -2520,8 +2449,8 @@
                inkscape:transform-center-x="2.1276164"
                style="fill:#ff0000;stroke:#ff0000"
                id="polygon724-0"
-               points="-21.7273,148.663 -24.1743,143.965 -20.7102,143.464 -20.7102,143.464 "
-               transform="matrix(0.12815011,-0.9911406,0.9911406,0.12815011,-231.14892,99.330696)" />
+               points="-20.7102,143.464 -21.7273,148.663 -24.1743,143.965 -20.7102,143.464 "
+               transform="matrix(0.12815011,-0.9911406,0.9911406,0.12815011,-231.14892,99.090508)" />
             <g
                id="g4040"
                transform="translate(-4.7983305,15.994435)">
@@ -2851,7 +2780,7 @@
               <title
                  id="title4053">0-&gt;4</title>
               <path
-                 style="fill:none;stroke:#ff0000"
+                 style="fill:none;stroke:#ff0000;stroke-width:2.40313567;stroke-miterlimit:4;stroke-dasharray:none"
                  inkscape:connector-curvature="0"
                  d="m 59.8998,-68.6741 c 18.3142,-0.9255 39.8031,-2.0115 52.1782,-2.6368"
                  id="path4055" />
@@ -2859,13 +2788,6 @@
                  style="fill:#ff0000;stroke:#ff0000"
                  points="111.996,-73.0589 117.078,-71.5636 112.173,-69.5634 111.996,-73.0589 "
                  id="polygon4057" />
-              <text
-                 style="font-size:12px;text-anchor:middle;font-family:monospace"
-                 x="93.993896"
-                 y="-58.150295"
-                 font-size="12.00"
-                 id="text4059"
-                 inkscape:transform-center-y="-15.861561">I492N</text>
             </g>
             <!-- 6 -->
             <g
@@ -3048,7 +2970,7 @@
               <title
                  id="title4117">0-&gt;11</title>
               <path
-                 style="fill:none;stroke:#ff0000"
+                 style="fill:none;stroke:#ff0000;stroke-width:2.40313567;stroke-miterlimit:4;stroke-dasharray:none"
                  inkscape:connector-curvature="0"
                  d="m -1.1931,-84.6155 c -13.8044,-8.6979 -29.3947,-18.5215 -38.4182,-24.2065"
                  id="path4119" />
@@ -3056,12 +2978,6 @@
                  style="fill:#ff0000;stroke:#ff0000"
                  points="-40.5983,-107.376 -43.8957,-111.522 -38.7325,-110.337 -40.5983,-107.376 "
                  id="polygon4121" />
-              <text
-                 style="font-size:12px;text-anchor:middle;font-family:monospace"
-                 x="-45.381413"
-                 y="-88.907982"
-                 font-size="12.00"
-                 id="text4123">M925L</text>
             </g>
             <!-- 12 -->
             <g
@@ -3385,17 +3301,11 @@
                  id="path4310"
                  d="m 87.5502,-29.5501 c 8.8412,-6.9162 21.8838,-17.1189 30.6938,-24.0106"
                  inkscape:connector-curvature="0"
-                 style="fill:none;stroke:#ff0000" />
+                 style="fill:none;stroke:#ff0000;stroke-width:2.39750932;stroke-miterlimit:4;stroke-dasharray:none" />
               <polygon
                  id="polygon4312"
                  points="117.175,-54.9466 122.191,-56.649 119.332,-52.1899 117.175,-54.9466 "
                  style="fill:#ff0000;stroke:#ff0000" />
-              <text
-                 id="text4314"
-                 font-size="12.00"
-                 y="-31.9554"
-                 x="125.897"
-                 style="font-size:12px;text-anchor:middle;font-family:monospace">V1681I</text>
             </g>
             <!-- 5 -->
             <g
@@ -3428,17 +3338,11 @@
                  id="path4324"
                  d="M 73.3558,-33.1342 C 69.0686,-43.4911 62.7375,-58.7859 58.666,-68.6217"
                  inkscape:connector-curvature="0"
-                 style="fill:none;stroke:#ff0000" />
+                 style="fill:none;stroke:#ff0000;stroke-width:2.39750932;stroke-miterlimit:4;stroke-dasharray:none" />
               <polygon
                  id="polygon4326"
                  points="56.9594,-68.1691 56.6639,-73.4583 60.1933,-69.5078 56.9594,-68.1691 "
                  style="fill:#ff0000;stroke:#ff0000" />
-              <text
-                 id="text4328"
-                 font-size="12.00"
-                 y="-34.890953"
-                 x="42.265247"
-                 style="font-size:12px;text-anchor:middle;font-family:monospace">S2076T</text>
             </g>
             <!-- 1&#45;&gt;6 -->
             <g
@@ -3484,17 +3388,11 @@
                  id="path4343"
                  d="m 88.8311,-16.0695 c 9.7454,5.3456 23.8049,13.0576 32.5169,17.83646"
                  inkscape:connector-curvature="0"
-                 style="fill:none;stroke:#ff0000" />
+                 style="fill:none;stroke:#ff0000;stroke-width:2.39750932;stroke-miterlimit:4;stroke-dasharray:none" />
               <polygon
                  id="polygon4345"
                  points="122.453,0.377021 125.995,4.31606 120.769,3.44568 122.453,0.377021 "
                  style="fill:#ff0000;stroke:#ff0000" />
-              <text
-                 id="text4347"
-                 font-size="12.00"
-                 y="15.1248"
-                 x="99.985046"
-                 style="font-size:12px;text-anchor:middle;font-family:monospace">L1617F</text>
             </g>
             <!-- 2 -->
             <g
@@ -3586,17 +3484,11 @@
                  id="path4377"
                  d="M 13.1672,-22.2644 C 11.8862,-31.1581 9.47252,-47.9169 7.92148,-58.686"
                  inkscape:connector-curvature="0"
-                 style="fill:none;stroke:#ff0000;stroke-dasharray:5, 2" />
+                 style="fill:none;stroke:#ff0000;stroke-dasharray:4.79501865,2.39750932;stroke-width:2.39750932;stroke-miterlimit:4;stroke-dashoffset:0" />
               <polygon
                  id="polygon4379"
                  points="6.18034,-58.4997 7.1996,-63.6982 9.64459,-58.9987 6.18034,-58.4997 "
                  style="fill:#ff0000;stroke:#ff0000" />
-              <text
-                 id="text4381"
-                 font-size="12.00"
-                 y="-43.875198"
-                 x="-24.386127"
-                 style="font-size:12px;text-anchor:middle;font-family:monospace">S2076T</text>
             </g>
           </g>
           <g
@@ -3924,17 +3816,11 @@
                id="path4601"
                d="m -18.5363,-61.2663 c -13.1199,-5.3378 -28.4035,-11.5558 -37.5594,-15.2809"
                inkscape:connector-curvature="0"
-               style="fill:none;stroke:#ff0000" />
+               style="fill:none;stroke:#ff0000;stroke-width:2.40452347;stroke-miterlimit:4;stroke-dasharray:none" />
             <polygon
                id="polygon4603"
                points="-60.9306,-78.5142 -55.6397,-78.2509 -56.9587,-75.0089 -56.9587,-75.0089 "
                style="fill:#ff0000;stroke:#ff0000" />
-            <text
-               id="text4605"
-               font-size="12.00"
-               y="-59.306801"
-               x="-56.316002"
-               style="font-size:12px;text-anchor:middle;font-family:monospace">K251R</text>
           </g>
           <g
              transform="matrix(0.99777162,0,0,0.99777162,343.12166,122.74111)"
@@ -4174,17 +4060,11 @@
                  id="path4765"
                  d="m 59.366,-73.3496 c 18.1068,-5.5549 37.9688,-11.6484 48.866,-14.9915"
                  inkscape:connector-curvature="0"
-                 style="fill:none;stroke:#ff0000" />
+                 style="fill:none;stroke:#ff0000;stroke-width:2.40138318;stroke-miterlimit:4;stroke-dasharray:none" />
               <polygon
                  id="polygon4767"
                  points="107.763,-90.0277 113.057,-89.8212 108.79,-86.6816 107.763,-90.0277 "
                  style="fill:#ff0000;stroke:#ff0000" />
-              <text
-                 id="text4769"
-                 font-size="12.00"
-                 y="-71.2453"
-                 x="106.799"
-                 style="font-size:12px;text-anchor:middle;font-family:monospace">F1529L</text>
             </g>
             <!-- 4 -->
             <g
@@ -4515,7 +4395,7 @@
           <title
              id="title3708">31-&gt;61</title>
           <path
-             style="fill:none;stroke:#ff0000;stroke-dasharray:5, 2"
+             style="fill:none;stroke:#ff0000;stroke-dasharray:4.79833095,4.79833095;stroke-width:2.39916547;stroke-miterlimit:4;stroke-dashoffset:0"
              inkscape:connector-curvature="0"
              d="m -115.679,-144.287 c -6.455,-8.763 -15.467,-20.996 -20.847,-28.299"
              id="path3710" />
@@ -4523,12 +4403,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="-139.594,-176.751 -135.219,-173.764 -138.037,-171.688 -138.037,-171.688 "
              id="polygon3712" />
-          <text
-             style="font-size:12px;text-anchor:middle;font-family:monospace"
-             x="-107.102"
-             y="-161.83701"
-             font-size="12.00"
-             id="text3714">T791M</text>
         </g>
         <g
            id="node36"
@@ -4655,8 +4529,14 @@
            transform="translate(-31.988877,4.7983305)">
           <title
              id="title3752">48-&gt;11</title>
+          <text
+             style="font-size:12px;text-anchor:middle;font-family:monospace"
+             x="-9.5829859"
+             y="8.4894218"
+             font-size="12.00"
+             id="text3758">P1874L</text>
           <path
-             style="fill:none;stroke:#ff0000;stroke-dasharray:5, 2"
+             style="fill:none;stroke:#ff0000;stroke-dasharray:4.79833056,2.39916528;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dashoffset:0"
              inkscape:connector-curvature="0"
              d="m -22.5857,13.8407 c 4.1269,-6.82415 11.4154,-18.87625 16.18892,-26.7696"
              id="path3754" />
@@ -4664,12 +4544,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="-3.56362,-17.6138 -4.65359,-12.4297 -7.64853,-14.2409 -7.64853,-14.2409 "
              id="polygon3756" />
-          <text
-             style="font-size:12px;text-anchor:middle;font-family:monospace"
-             x="1.6131186"
-             y="14.887196"
-             font-size="12.00"
-             id="text3758">P1874L</text>
         </g>
         <g
            id="edge74"
@@ -4678,7 +4552,7 @@
           <title
              id="title3761">48-&gt;32</title>
           <path
-             style="fill:none;stroke:#ff0000;stroke-dasharray:5, 2"
+             style="fill:none;stroke:#ff0000;stroke-dasharray:4.79833056,2.39916528;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dashoffset:0"
              inkscape:connector-curvature="0"
              d="m -24.9936,25.2073 c 0.9761,8.2921 2.7145,23.0591 3.8202,32.4519"
              id="path3763" />
@@ -4688,7 +4562,7 @@
              id="polygon3765" />
           <text
              style="font-size:12px;text-anchor:middle;font-family:monospace"
-             x="0.45331913"
+             x="-21.205812"
              y="55.864494"
              font-size="12.00"
              id="text3767">P1874S</text>
@@ -4719,7 +4593,7 @@
           <title
              id="title3775">50-&gt;41</title>
           <path
-             style="fill:none;stroke:#ff0000;stroke-dasharray:5, 2"
+             style="fill:none;stroke:#ff0000;stroke-dasharray:4.79833056,2.39916528;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dashoffset:0"
              inkscape:connector-curvature="0"
              d="M 29.9136,6.93654 C 37.0806,2.21931 48.1816,-5.08713 55.5487,-9.93601"
              id="path3777" />
@@ -4729,8 +4603,8 @@
              id="polygon3779" />
           <text
              style="font-size:12px;text-anchor:middle;font-family:monospace"
-             x="30.227448"
-             y="-8.8983488"
+             x="39.824116"
+             y="0.69831192"
              font-size="12.00"
              id="text3781">N1570Y</text>
         </g>
@@ -4803,7 +4677,7 @@
           <title
              id="title3804">61-&gt;anon_20_61_0</title>
           <path
-             style="fill:none;stroke:#ff0000"
+             style="fill:none;stroke:#ff0000;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dasharray:none"
              inkscape:connector-curvature="0"
              d="m -141.429,-181.521 c -0.9,-7.487 -3.436,-28.596 -4.823,-40.137"
              id="path3806" />
@@ -4811,12 +4685,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="-146.886,-226.938 -144.552,-222.182 -148.027,-221.765 -148.027,-221.765 "
              id="polygon3808" />
-          <text
-             style="font-size:12px;text-anchor:middle;font-family:monospace"
-             x="-166.84"
-             y="-204.989"
-             font-size="12.00"
-             id="text3810">L1366F</text>
         </g>
         <g
            id="edge18"
@@ -4837,7 +4705,7 @@
           <title
              id="title3818">anon_3_40_0-&gt;40</title>
           <path
-             style="fill:none;stroke:#ff0000"
+             style="fill:none;stroke:#ff0000;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dasharray:none"
              inkscape:connector-curvature="0"
              d="m 199.578,-121.202 c 5.2,-3.335 17.802,-11.416 26.052,-16.707"
              id="path3820" />
@@ -4845,12 +4713,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="230.099,-140.775 226.834,-136.602 224.945,-139.549 224.945,-139.549 "
              id="polygon3822" />
-          <text
-             style="font-size:12px;text-anchor:middle;font-family:monospace"
-             x="193.604"
-             y="-132.955"
-             font-size="12.00"
-             id="text3824">P940H</text>
         </g>
         <g
            id="edge26"
@@ -4904,7 +4766,7 @@
           <title
              id="title3842">anon_6_27_1-&gt;27</title>
           <path
-             style="fill:none;stroke:#ff0000"
+             style="fill:none;stroke:#ff0000;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dasharray:none"
              inkscape:connector-curvature="0"
              d="m -185.74132,-15.173331 c -4.17955,-4.415761 -14.62348,-15.450469 -21.72974,-22.95864"
              id="path3844"
@@ -4915,12 +4777,6 @@
              points="-223.262,-19.9924 -228.543,-20.4092 -224.154,-23.3766 -223.262,-19.9924 "
              id="polygon3846"
              transform="matrix(0.48350564,0.87534125,-0.87534125,0.48350564,-118.37989,168.14103)" />
-          <text
-             style="font-size:12px;text-anchor:middle;font-family:monospace"
-             x="-184.75952"
-             y="-30.083427"
-             font-size="12.00"
-             id="text3848">G54C</text>
         </g>
         <g
            id="edge51"
@@ -4960,7 +4816,7 @@
           <title
              id="title3861">anon_15_23_0-&gt;anon_15_23_1</title>
           <path
-             style="fill:#ff0000;stroke:#ff0000"
+             style="fill:#ff0000;stroke:#ff0000;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dasharray:none"
              inkscape:connector-curvature="0"
              d="m -282.872,-134.338 c -6.669,-1.329 -24.27,-4.837 -34.471,-6.87"
              id="path3863" />
@@ -4968,12 +4824,6 @@
              style="fill:#ff0000;stroke:#ff0000"
              points="-322.356,-142.207 -317.11,-142.946 -317.795,-139.513 -317.795,-139.513 "
              id="polygon3865" />
-          <text
-             style="font-size:12px;text-anchor:middle;font-family:monospace"
-             x="-319.108"
-             y="-128.173"
-             font-size="12.00"
-             id="text3867">Q545L</text>
         </g>
         <g
            id="edge63"
@@ -4994,7 +4844,7 @@
           <title
              id="title3430">6-&gt;13</title>
           <path
-             style="fill:none;stroke:#ff0000"
+             style="fill:none;stroke:#ff0000;stroke-width:2.39916528;stroke-miterlimit:4;stroke-dasharray:none"
              inkscape:connector-curvature="0"
              d="M -52.5635,-68.1248 C -58.3379,-87.389 -65.296,-110.602 -69.5437,-124.773"
              id="path3432" />
@@ -5012,24 +4862,19 @@
         <g
            id="edge43"
            class="edge"
-           transform="translate(-31.988877,4.7983305)">
+           transform="translate(-33.179569,-2.7427168)">
           <title
              id="title3494">6-&gt;26</title>
           <path
-             style="fill:none;stroke:#ff0000"
+             style="fill:none;stroke:#ff0000;stroke-width:2.39916539;stroke-miterlimit:4;stroke-dasharray:none"
              inkscape:connector-curvature="0"
-             d="m -48.0724,-69.1332 c -0.2038,-1.2814 -0.4002,-2.5156 -0.5861,-3.6837"
+             d="m -46.879532,-62.259584 c -0.310501,-3.914022 -0.609602,-7.683873 -0.892694,-11.25182"
              id="path3496" />
           <polygon
-             style="fill:#ff0000;stroke:#ff0000"
-             points="-49.4859,-78.0178 -46.972,-73.3549 -50.4285,-72.8049 -50.4285,-72.8049 "
-             id="polygon3498" />
-          <text
-             style="font-size:12px;text-anchor:middle;font-family:monospace"
-             x="-71.365402"
-             y="-74.375099"
-             font-size="12.00"
-             id="text3500">I1584T</text>
+             style="fill:#ff0000;stroke:#ff0000;stroke-width:0.99965221;stroke-miterlimit:4;stroke-dasharray:none"
+             points="-46.972,-73.3549 -50.4285,-72.8049 -50.4285,-72.8049 -49.4859,-78.0178 "
+             id="polygon3498"
+             transform="matrix(0.99708214,0.07633611,-0.07633611,0.99708214,-4.7046801,3.8588816)" />
         </g>
       </g>
     </g>
@@ -5491,7 +5336,7 @@
             <title
                id="title6567">0-&gt;14</title>
             <path
-               style="fill:none;stroke:#ff0000"
+               style="fill:none;stroke:#ff0000;stroke-width:2.39980206;stroke-miterlimit:4;stroke-dasharray:none"
                inkscape:connector-curvature="0"
                d="m 64.2475,56.9885 c 0.0054,3.9291 0.0103,7.5461 0.0144,10.5625"
                id="path6569" />
@@ -5499,12 +5344,6 @@
                style="fill:#ff0000;stroke:#ff0000"
                points="64.2691,72.8066 62.5122,67.8091 66.0122,67.8042 66.0122,67.8042 "
                id="polygon6571" />
-            <text
-               style="font-size:12px;text-anchor:middle;font-family:monospace"
-               x="85.952408"
-               y="72.4655"
-               font-size="12.00"
-               id="text6573">A586T</text>
           </g>
           <g
              id="node16-8"
@@ -5770,7 +5609,7 @@
             <title
                id="title6661">0-&gt;26</title>
             <path
-               style="fill:none;stroke:#ff0000"
+               style="fill:none;stroke:#ff0000;stroke-width:2.39980206;stroke-miterlimit:4;stroke-dasharray:none"
                inkscape:connector-curvature="0"
                d="M 55.991,56.2105 C 52.9851,72.9077 49.8828,90.1411 48.092,100.089"
                id="path6663" />
@@ -5778,12 +5617,6 @@
                style="fill:#ff0000;stroke:#ff0000"
                points="49.8081,100.434 47.1998,105.045 46.3634,99.814 49.8081,100.434 "
                id="polygon6665" />
-            <text
-               style="font-size:12px;text-anchor:middle;font-family:monospace"
-               x="31.823326"
-               y="96.276917"
-               font-size="12.00"
-               id="text6667">A837V</text>
           </g>
           <g
              id="node28-6"
@@ -6080,7 +5913,7 @@
             <title
                id="title6765">9-&gt;0</title>
             <path
-               style="fill:none;stroke:#ff0000;stroke-width:1"
+               style="fill:none;stroke:#ff0000;stroke-width:2.39980206;stroke-miterlimit:4;stroke-dasharray:none"
                inkscape:connector-curvature="0"
                d="m 77.997983,-71.093366 c -1.440743,6.420332 -4.127929,18.394814 -7.006534,31.22188"
                id="path6767"
@@ -6090,12 +5923,6 @@
                points="63.7879,-40.4833 67.2867,-40.3907 67.2867,-40.3907 65.4049,-35.4388 "
                id="polygon6769"
                transform="matrix(0.9771724,0.21244786,-0.21244786,0.9771724,-1.6959904,-14.383761)" />
-            <text
-               style="font-size:12px;text-anchor:middle;font-family:monospace"
-               x="56.712887"
-               y="-61.312626"
-               font-size="12.00"
-               id="text6771">R254K</text>
           </g>
           <g
              id="node11-4"
@@ -6566,17 +6393,11 @@
              id="path7181"
              d="M 96.677,-3.87319 C 101.58,-6.8826 113.719,-14.3326 123.103,-20.0919"
              inkscape:connector-curvature="0"
-             style="fill:none;stroke:#ff0000" />
+             style="fill:none;stroke:#ff0000;stroke-width:2.40140351;stroke-miterlimit:4;stroke-dasharray:none" />
           <polygon
              id="polygon7183"
              points="122.267,-21.6326 122.267,-21.6326 127.444,-22.7565 124.098,-18.6496 "
              style="fill:#ff0000;stroke:#ff0000" />
-          <text
-             id="text7185"
-             font-size="12.00"
-             y="-1.5673188"
-             x="132.39873"
-             style="font-size:12px;text-anchor:middle;font-family:monospace">S1683I</text>
         </g>
         <g
            transform="matrix(0.99933312,0,0,0.99933312,78.16874,65.435833)"
@@ -6588,17 +6409,11 @@
              id="path7190"
              d="M 94.8875,0.0234446 C 95.7991,5.70614 98.0556,19.774 99.8001,30.6494"
              inkscape:connector-curvature="0"
-             style="fill:none;stroke:#ff0000" />
+             style="fill:none;stroke:#ff0000;stroke-width:2.40140351;stroke-miterlimit:4;stroke-dasharray:none" />
           <polygon
              id="polygon7192"
              points="101.543,30.467 101.543,30.467 100.607,35.6811 98.0873,31.0214 "
              style="fill:#ff0000;stroke:#ff0000" />
-          <text
-             id="text7194"
-             font-size="12.00"
-             y="24.532595"
-             x="77.937477"
-             style="font-size:12px;text-anchor:middle;font-family:monospace">G317S</text>
         </g>
         <g
            transform="matrix(0.99933312,0,0,0.99933312,78.16874,65.435833)"
@@ -6629,17 +6444,11 @@
              id="path7204"
              d="M 92.1399,-3.46553 C 85.8261,-6.00691 68.2379,-13.0863 58.2133,-17.1212"
              inkscape:connector-curvature="0"
-             style="fill:none;stroke:#ff0000" />
+             style="fill:none;stroke:#ff0000;stroke-width:2.40140351;stroke-miterlimit:4;stroke-dasharray:none" />
           <polygon
              id="polygon7206"
              points="57.5269,-15.511 57.5269,-15.511 53.542,-19.0015 58.8338,-18.7579 "
              style="fill:#ff0000;stroke:#ff0000" />
-          <text
-             id="text7208"
-             font-size="12.00"
-             y="-0.693367"
-             x="52.176601"
-             style="font-size:12px;text-anchor:middle;font-family:monospace">I1940T</text>
         </g>
         <g
            transform="matrix(0.99933312,0,0,0.99933312,78.16874,65.435833)"
@@ -6651,17 +6460,11 @@
              id="path7213"
              d="m 48.5467,-20.9777 c -5.1021,-1.9814 -17.424,-6.7665 -29.0196,-11.2697"
              inkscape:connector-curvature="0"
-             style="fill:none;stroke:#ff0000" />
+             style="fill:none;stroke:#ff0000;stroke-width:2.40140351;stroke-miterlimit:4;stroke-dasharray:none" />
           <polygon
              id="polygon7215"
              points="18.6525,-30.7096 18.6525,-30.7096 14.6252,-34.151 19.9196,-33.9722 "
              style="fill:#ff0000;stroke:#ff0000" />
-          <text
-             id="text7217"
-             font-size="12.00"
-             y="-34.07579"
-             x="42.066021"
-             style="font-size:12px;text-anchor:middle;font-family:monospace">D466H</text>
         </g>
       </g>
       <g
@@ -6794,7 +6597,7 @@
               <title
                  id="title7317">1-&gt;0</title>
               <path
-                 style="fill:none;stroke:#ff0000"
+                 style="fill:none;stroke:#ff0000;stroke-width:2.40024731;stroke-miterlimit:4;stroke-dasharray:none"
                  inkscape:connector-curvature="0"
                  d="M 9.0159,-10.8886 C 1.62987,-17.1234 -8.1593,-25.3866 -16.0093,-32.013"
                  id="path7319" />
@@ -6802,12 +6605,6 @@
                  style="fill:#ff0000;stroke:#ff0000"
                  points="-20.1433,-35.5026 -15.1937,-33.6147 -17.4513,-30.9401 -17.4513,-30.9401 "
                  id="polygon7321" />
-              <text
-                 style="font-size:12px;text-anchor:middle;font-family:monospace"
-                 x="-26.4967"
-                 y="-11.8508"
-                 font-size="12.00"
-                 id="text7323">F1920S</text>
             </g>
             <g
                id="node3-1"
@@ -6862,7 +6659,7 @@
               <title
                  id="title7341">1-&gt;5</title>
               <path
-                 style="fill:#ff0000;stroke:#ff0000"
+                 style="fill:#ff0000;stroke:#ff0000;stroke-width:2.40024731;stroke-miterlimit:4;stroke-dasharray:none"
                  inkscape:connector-curvature="0"
                  d="M 19.9631,-15.7984 C 19.9524,-25.9351 19.9384,-39.2619 19.9294,-47.8872"
                  id="path7343" />
@@ -6870,12 +6667,6 @@
                  style="fill:#ff0000;stroke:#ff0000"
                  points="19.924,-53.0104 21.6793,-48.0123 18.1793,-48.0085 18.1793,-48.0085 "
                  id="polygon7345" />
-              <text
-                 style="font-size:12px;text-anchor:middle;font-family:monospace"
-                 x="38.946201"
-                 y="-35.242802"
-                 font-size="12.00"
-                 id="text7347">R537L</text>
             </g>
             <g
                id="node7-7"
@@ -6901,7 +6692,7 @@
               <title
                  id="title7355">1-&gt;6</title>
               <path
-                 style="fill:none;stroke:#ff0000"
+                 style="fill:none;stroke:#ff0000;stroke-width:2.40024731;stroke-miterlimit:4;stroke-dasharray:none"
                  inkscape:connector-curvature="0"
                  d="M 10.5404,9.37805 C 3.07559,18.0893 -7.09852,29.9623 -13.3517,37.2595"
                  id="path7357" />
@@ -6909,12 +6700,6 @@
                  style="fill:#ff0000;stroke:#ff0000"
                  points="-16.6792,41.1426 -14.7545,36.2072 -12.0968,38.4846 -12.0968,38.4846 "
                  id="polygon7359" />
-              <text
-                 style="font-size:12px;text-anchor:middle;font-family:monospace"
-                 x="-29.034176"
-                 y="27.629"
-                 font-size="12.00"
-                 id="text7361">H1755Y</text>
             </g>
             <g
                id="node8-48"
@@ -6969,7 +6754,7 @@
               <title
                  id="title7379">1-&gt;9</title>
               <path
-                 style="fill:none;stroke:#ff0000"
+                 style="fill:none;stroke:#ff0000;stroke-width:2.40024731;stroke-miterlimit:4;stroke-dasharray:none"
                  inkscape:connector-curvature="0"
                  d="m 32.9757,4.06492 c 9.4921,4.1628 22.0772,9.68208 30.234,13.25918"
                  id="path7381" />
@@ -6977,12 +6762,6 @@
                  style="fill:#ff0000;stroke:#ff0000"
                  points="68.0568,19.4498 62.7749,19.0443 64.1807,15.839 64.1807,15.839 "
                  id="polygon7383" />
-              <text
-                 style="font-size:12px;text-anchor:middle;font-family:monospace"
-                 x="67.092697"
-                 y="7.2945299"
-                 font-size="12.00"
-                 id="text7385">K251R</text>
             </g>
             <g
                id="node11-9"
@@ -7160,6 +6939,12 @@
                  d="m 162.417,-85.5436 c 7.003,-2.1382 26.042,-7.9515 34.037,-10.3925"
                  id="path7445" />
             </g>
+            <text
+               style="font-size:12px;text-anchor:middle;font-family:monospace"
+               x="-31.705093"
+               y="-13.594588"
+               font-size="12.00"
+               id="text7323">F1920S</text>
           </g>
         </g>
       </g>
