@@ -141,6 +141,8 @@ rcParams['xtick.direction'] = 'out'
 rcParams['savefig.jpeg_quality'] = 100
 rcParams['lines.markeredgewidth'] = .5
 rcParams['figure.max_open_warning'] = 1000
+rcParams['figure.dpi'] = 120
+rcParams['figure.facecolor'] = 'w'
 ```
 
 
