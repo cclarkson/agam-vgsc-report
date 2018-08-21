@@ -436,11 +436,11 @@ In particular, recombination events could occur during the geographical spread o
 %
 An analysis based on a fixed genomic window might then fail to infer gene flow between two mosquito populations, because haplotypes with and without a recombination event could be grouped separately, despite the fact that they share a recent common ancestor.
 %
-To investigate the possibility that recombination events may have affected our grouping of haplotypes carrying resistance alleles, we performed a windowed analysis of haplotype homozygosity, spanning \textit{Vgsc} and up to a megabase upstream and downstream of the gene (Supplementary Figures \ref{fig:mhh_f}, \ref{fig:mhh_s}).
+To investigate the possibility that recombination events may have affected our grouping of haplotypes carrying resistance alleles, we performed a windowed analysis of haplotype homozygosity, spanning \textit{Vgsc} and up to a megabase upstream and downstream of the gene (\ref{fig:mhh_f} Figure, \ref{fig:mhh_s} Figure).
 %
 This analysis supported a refinement of our initial grouping of haplotypes carrying resistance alleles.
 %
-All haplotypes within groups S4 and S5 were effectively identical on both the upstream and downstream flanks of the gene, but there was a region of divergence within the \textit{Vgsc} gene itself that separated them in the fixed window analyses (Supplementary Figure \ref{fig:mhh_s}).
+All haplotypes within groups S4 and S5 were effectively identical on both the upstream and downstream flanks of the gene, but there was a region of divergence within the \textit{Vgsc} gene itself that separated them in the fixed window analyses (\ref{fig:mhh_s} Figure).
 %
 The 13.8 kbp region of divergence occurred upstream of codon 995 and contained 8 SNPs that were fixed differences between S4 and S5.
 %
@@ -489,11 +489,11 @@ As expected, haplotypes carrying the \texttt{L995F} and \texttt{L995S} resistanc
 Previous studies have found evidence for different rates of EHH decay between \texttt{L995F} and \texttt{L995S} haplotypes,
 suggesting differences in the timing and/or strength of selection \cite{Lynd2010}.
 %
-However, we found no systematic difference in the length of shared haplotypes when comparing F1-5 (carrying \texttt{L995F}) against S1-5 (carrying \texttt{L995S}) (Supplementary Figure \ref{fig:pspd}).
+However, we found no systematic difference in the length of shared haplotypes when comparing F1-5 (carrying \texttt{L995F}) against S1-5 (carrying \texttt{L995S}) (\ref{fig:pspd} Figure).
 %
 There were, however, some differences between core haplotypes carrying the same allele.
 %
-For example, shared haplotypes were significantly longer for S1 (median 1.091 cM, 95\% CI [1.076 - 1.091]) versus other core haplotypes carrying \texttt{L995S} (e.g., S2 median 0.699 cM, 95\% CI [0.696 - 0.705]; Supplementary Figure \ref{fig:pspd}).
+For example, shared haplotypes were significantly longer for S1 (median 1.091 cM, 95\% CI [1.076 - 1.091]) versus other core haplotypes carrying \texttt{L995S} (e.g., S2 median 0.699 cM, 95\% CI [0.696 - 0.705]; \ref{fig:pspd} Figure).
 %
 Longer shared haplotypes indicate a more recent common ancestor, and thus some of these core haplotypes may have experienced more recent and/or more intense selection than others.
 %
@@ -668,13 +668,13 @@ Accuracy was evaluated using 10-fold stratified cross-validation.
 %
 To facilitate the development of targeted genetic assays for surveillance of \textit{Vgsc}-mediated pyrethroid resistance, we have produced several supplementary data tables.
 %
-In Supplementary Table 1 we list all 64 non-synonymous variants found within the \textit{Vgsc} gene in this study, with population allele frequencies.
+In S1 Table we list all 64 non-synonymous variants found within the \textit{Vgsc} gene in this study, with population allele frequencies.
 %
-In Supplementary Table 2 we list 771 biallelic SNPs, within the \textit{Vgsc} gene and up to 10 kbp upstream or downstream, that are potentially informative regarding which haplotype group a resistance haplotype belongs to, and thus could be used for tracking the spread of resistance.
+In S2 Table we list 771 biallelic SNPs, within the \textit{Vgsc} gene and up to 10 kbp upstream or downstream, that are potentially informative regarding which haplotype group a resistance haplotype belongs to, and thus could be used for tracking the spread of resistance.
 %
 This table includes the allele frequency within each of the 12 haplotype groups defined here, to aid in identifying SNPs that are highly differentiated between two or more haplotype groups.
 %
-We also provide Supplementary Table 3 which lists all 8,297 SNPs found within the \textit{Vgsc} gene and up to 10 kbp upstream or downstream, which might need to be taken into account as flanking variation when searching for PCR primers to amplify a SNP of interest.
+We also provide S3 Table which lists all 8,297 SNPs found within the \textit{Vgsc} gene and up to 10 kbp upstream or downstream, which might need to be taken into account as flanking variation when searching for PCR primers to amplify a SNP of interest.
 %
 To provide some indication for how many SNPs would need to be assayed in order to track the spread of resistance, we used haplotype data from this study to construct decision trees that could classify which of the 12 groups a given haplotype belongs to (Figure \ref{fig:gain}).
 %
@@ -742,14 +742,14 @@ The \emph{Vgsc} gene is known to exhibit alternative splicing \cite{Davies2007a}
 %
 We wrote a Python script to check for the presence of variants that are synonymous according to transcript AGAP004707-RA but non-synonymous according to one of the other transcripts present in the gene annotations or in the set reported by Davies et al.
 %
-Supplementary Table 1 includes the predicted effect for all SNPs that are non-synonymous in one or more of these transcripts.
+S1 Table includes the predicted effect for all SNPs that are non-synonymous in one or more of these transcripts.
 %
 None of the variants that are non-synonymous in a transcript other than AGAP004707-RA were found to be above 5\% frequency in any population.
 %
 %%
 
 %
-For ease of comparison with previous work on \emph{Vgsc}, pan Insecta, in Table \ref{table:variants_missense} and Supplementary Table 1 we report codon numbering for both \emph{An. gambiae} and \emph{Musca domestica} (the species in which the gene was first discovered).
+For ease of comparison with previous work on \emph{Vgsc}, pan Insecta, in Table \ref{table:variants_missense} and S1 Table we report codon numbering for both \emph{An. gambiae} and \emph{Musca domestica} (the species in which the gene was first discovered).
 %
 The \emph{M. domestica Vgsc} sequence (EMBL accession X96668 \cite{Williamson1996}) was aligned with the \emph{An. gambiae} AGAP004707-RA sequence (AgamP4.4 gene-set) using the Mega v7 software package \cite{Kumar2016}.
 %
@@ -793,7 +793,7 @@ This region was chosen as it was the smallest region sufficient to differentiate
 %
 Extended haplotype homozygosity (EHH) was computed for all core haplotypes as described in \cite{Sabeti2002} using scikit-allel version 1.1.9 \cite{Miles2016}, excluding non-synonymous and singleton SNPs.
 %
-Analyses of haplotype homozygosity in moving windows (Supplementary Figs. \ref{fig:mhh_f}, \ref{fig:mhh_s}) and pairwise haplotype sharing (Supplementary Figure \ref{fig:pspd}) were performed using custom Python code available from \url{https://github.com/malariagen/agam-vgsc-report}.
+Analyses of haplotype homozygosity in moving windows (\ref{fig:mhh_f} Figure, \ref{fig:mhh_s} Figure) and pairwise haplotype sharing (\ref{fig:pspd} Figure) were performed using custom Python code available from \url{https://github.com/malariagen/agam-vgsc-report}.
 %
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -836,7 +836,7 @@ The classification accuracy of each tree was evaluated using stratified 5-fold c
 %
 \begin{figure}[!b]
   \includegraphics[width=1.1\linewidth,center]{artwork/mhh_S.pdf}
-  \caption{\textbf{Windowed analysis of haplotype homozygosity for genetic backgrounds carrying the \texttt{L995S} allele}. See Supplementary Figure \ref{fig:mhh_f} for explanation. Haplotype homozygosity is high between groups S4 and S5 on both flanks of the gene, indicating that haplotypes from both groups are in fact closely related.}
+  \caption{\textbf{Windowed analysis of haplotype homozygosity for genetic backgrounds carrying the \texttt{L995S} allele}. See \ref{fig:mhh_f} Figure for explanation. Haplotype homozygosity is high between groups S4 and S5 on both flanks of the gene, indicating that haplotypes from both groups are in fact closely related.}
   \label{fig:mhh_s}
 \end{figure}
 %%
