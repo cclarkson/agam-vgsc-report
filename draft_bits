@@ -2,45 +2,131 @@
 
 For submission to Genome Research or Genome Biology
 
+#######
+#TITLE#
+#######
 
-TITLE
 Whole-genome sequencing of natural insect populations reveals a complex architecture of of target-site resistance to pyrethroid insecticides.
 
-ABSTRACT - ~250 words
+
+#######################
+#ABSTRACT - ~300 words#
+#######################
 
 
+%%
+Resistance to pyrethroid insecticides is a major concern for food security and insect disease vector control, 
+because these compounds are widely used in agriculture, and are used in almost all insecticide-treated bed-nets.
+%
+Pyrethroids target the voltage-gated sodium channel (VGSC), but substitutions in the amino acid sequence can disrupt the activity of these insecticides, 
+inducing a resistance phenotype.
+% 
+To provide a comprehensive account of genetic variation in the Vgsc gene from natural insect populations, 
+we use whole-genome sequence data of mosquito populations from eight African countries (Anopheles gambiae 1000 Genomes Project).
+%
+We describe 20 non-synonymous nucleotide substitutions at appreciable frequency in one or more populations that are previously unknown in Anopheles mosquitoes.
+% 
+Thirteen of these alleles occurred almost exclusively on haplotypes carrying the known L995F resistance allele (L1014F  Musca domesticus), 
+and may enhance or compensate for the L995F resistance phenotype.
+%
+A novel mutation I1527T, adjacent to a predicted pyrethroid binding site, was found in tight linkage with alleles causing a V402L substitution, 
+similar to a combination found to cause resistance in several other insect species.
+% 
+We analyse the genetic backgrounds on which non-synonymous alleles are found and describe twelve distinct haplotype groups with evidence of recent positive selection, 
+providing new information about the geographical distribution and spread of resistance.
+%
+We identify markers that could be used to design high-throughput, low-cost genetic assays for improved surveillance of pyrethroid resistance in the field.
+%
+Our results demonstrate that the molecular basis of target-site pyrethroid resistance is more complex than hitherto appreciated, 
+and provide a foundation for the development of new tools to track the spread insecticide resistance.
+%
+With high conservation found across insect Vgsc, including independently evolving pyrethroid resistance via the same SNP mutations,
+our methodology and findings should be easily and effectively applied across pest insect systems.
+%%
+
+##############
+#INTRODUCTION#
+##############
 
 
-up to 40% of global crop yields are lost to pests and diseases each year and this could double without effective pesticides (ECPA 2016)
-European Crop Protection Association (2016) 
-http://www.ecpa.eu/with-or-without
+*European Crop Protection Association (2016) http://www.ecpa.eu/with-or-without
+*European Union, European Parliament. (2015), Draft Report on Technological solutions to sustainable agriculture in the EU (2015/2225(INI)).
+*Field et al Voltage-gated sodium channels as targets for pyrethroid insecticides, 2017 (Biophysics in Europe)
 
-actually from here - Source:  European Union, European Parliament. (2015), Draft Report on Technological solutions to sustainable agriculture in the EU (2015/2225(INI)).
+%%
+Pyrethroid insecticides have been the cornerstone of malaria prevention in Africa for almost two decades \cite{Bhatt2015} and they are currently used in all insecticide-treated bed-nets (ITNs)
+%
+Resistance to this class of insecticide is now widespread in malaria vector populations across Africa \cite{Hemingway2016}.
+%
+There are fears that increasing resistance will result in control failure and reversal of large reductions in mortality and morbidity (@@numbers? e.g Bhatt).
+%
+The World Health Organization (WHO) has published plans for insecticide resistance management (IRM), 
+which emphasise the need for improvements in both our knowledge of the molecular mechanisms of resistance and our ability to monitor them in natural populations \cite{WorldHealthOrganization2012}.
+%
+Pyrethroids are also widely used in food security to protect crops from insects (Field et al, 2017). I
+%
+It has been estimated that up to 40% of agricultural yields are lost to insect pests and diseases annually (EU, 2015),
+a value that could double without effective insecticides (ECPA, 2016).
+%
+The huge increase in global population that is predicted will in turn increase the pressure on sustainable food production.
+% 
+With limited insecticide rotation options, a better understanding and ability to track of insecticide resistance in natural populations will be necessary to inform the optimal strategy.
+%%
 
 
 
 %%
-Resistance to pyrethroid insecticides is a major concern for malaria vector control, because these are the compounds used in almost all insecticide-treated bed-nets.
+The voltage-gated sodium channel (VGSC) is the physiological target of pyrethroid insecticides, and is integral to the insect nervous system.
 %
-Pyrethroids target the voltage-gated sodium channel (VGSC), but substitutions in the amino acid sequence can disrupt the activity of these insecticides, inducing a resistance phenotype.
+Pyrethroid molecules bind to sites within the protein channel and prevent normal nervous system function, causing paralysis (``knock-down'') and then death.
 %
-Here we use whole-genome sequence data from phase 1 of the \emph{Anopheles gambiae} 1000 Genomes Project (Ag1000G) to provide a comprehensive account of genetic variation in the \emph{Vgsc} gene in mosquito populations from eight African countries.
+However, amino acid substitutions at key positions within the protein alter the interaction with insecticide molecules (target-site resistance), increasing the dose of insecticide required for knock-down \cite{Davies2007a,Dong2014}.
 %
-We describe 20 non-synonymous nucleotide substitutions at appreciable frequency in one or more populations that are previously unknown in \emph{Anopheles} mosquitoes.
+In the African malaria vectors \textit{Anopheles gambiae} and \textit{An. coluzzii}, three substitutions have been found to cause pyrethroid resistance.
 %
-Thirteen of these novel alleles were found to occur almost exclusively on haplotypes carrying the known \texttt{L995F} resistance allele (\texttt{L1014F} in \emph{Musca domesticus} codon numbering), and may enhance or compensate for the \texttt{L995F} resistance phenotype.
+Two of these substitutions occur in codon 995, with \texttt{L995F} prevalent in West and Central Africa \cite{Martinez-Torres1998,Silva2014}, and \texttt{L995S} found in Central and East Africa \cite{Ranson2000,Silva2014}.
 %
-A novel mutation \texttt{I1527T}, adjacent to a predicted pyrethroid binding site, was found in tight linkage with alleles causing a \texttt{V402L} substitution, similar to a combination found to cause resistance in several other insect species.
+Codon numbering is given here relative to transcript \texttt{AGAP004707-RA} as defined in the AgamP4.4 gene annotations.
 %
-We analyse the genetic backgrounds on which non-synonymous alleles are found and describe twelve distinct haplotype groups with evidence of recent positive selection.
+A mapping of codon numbers from \texttt{AGAP004707-RA} to \emph{Musca domestica}, the system in which knock-down resistance mutations were first described \cite{Williamson1996}, is given in Table \ref{table:variants_missense}.
 %
-Five of these groups comprise haplotypes from different countries, in one case separated by over 3000 km, providing new information about the geographical distribution and spread of resistance.
+A third substitution, \texttt{N1570Y}, has been found in West and Central Africa and shown to increase resistance in association with \texttt{L995F} \cite{Jones2012}.
 %
-We also find evidence for multiple introgression events transmitting resistance alleles between \emph{An. gambiae} and \emph{An. coluzzii}.
+However, studies in other insect species have found a variety of other \emph{Vgsc} substitutions inducing a resistance phenotype \cite{Davies2007b,Rinkevich2013,Dong2014}.
 %
-We identify markers that could be used to design high-throughput, low-cost genetic assays for improved surveillance of pyrethroid resistance in the field.
+To our knowledge, no studies in malaria vectors have analysed the full \emph{Vgsc} coding sequence, thus the molecular basis of target-site resistance to pyrethroids has not been fully explored.
+%%
+
+
+%%
+Basic information is also lacking about the spread of pyrethroid resistance in malaria vectors.
 %
-Our results demonstrate that the molecular basis of target-site pyrethroid resistance is more complex than previously appreciated, and provide a foundation for the development of new tools to track the spread insecticide resistance.
+For example, it is not clear when, where or how many times pyrethroid target-site resistance has emerged.
+%
+Geographical paths of transmission, carrying resistance alleles between mosquito populations, are also not known.
+%
+Previous studies have found evidence that \texttt{L995F} occurs on several different genetic backgrounds, suggesting multiple independent outbreaks of resistance driven by this allele \cite{Pinto2007,Etang2009,Lynd2010,Santolamazza2015}.
+%
+However, these studies analysed only small gene regions in a limited number of mosquito populations, and therefore had limited resolution to make inferences about relationships between haplotypes carrying this allele.
+%
+It has also been shown that the \texttt{L995F} allele spread from \textit{An. gambiae} to \textit{An. coluzzii} in West Africa \cite{Clarkson2014,Norris2015}.
+%
+However, both \texttt{L995F} and \texttt{L995S} now have wide geographical distributions \cite{Silva2014}, and to our knowledge no attempts have been made to infer or track the geographical spread of either allele.
+%%
+
+%%
+Here we report an in-depth analysis of genetic variation in the \textit{Vgsc} gene, using whole-genome Illumina sequence data from phase 1 of the \emph{Anopheles gambiae} 1000 Genomes Project (Ag1000G) \cite{Ag1000gConsortium2017}.
+%
+The Ag1000G phase 1 resource includes data on nucleotide variation in 765 wild-caught mosquitoes sampled from 8 countries, with representation of West, Central, Southern and East Africa, and of both \textit{An. gambiae} and \textit{An. coluzzii}.
+%
+We investigate variation across the complete gene coding sequence, and report population genetic data for both known and novel non-synonymous nucleotide substitutions.
+%
+We then use haplotype data from the chromosomal region spanning the \textit{Vgsc} gene to study the genetic backgrounds carrying resistance alleles, infer the geographical spread of resistance between mosquito populations, and provide evidence for recent positive selection.
+%
+Finally, we explore ways in which variation data from Ag1000G can be used to design high-throughput, low-cost genetic assays for surveillance of pyrethroid resistance, with the capability to differentiate and track resistance outbreaks.
+%%
+
+
 
 
 
