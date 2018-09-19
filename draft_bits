@@ -53,8 +53,13 @@ our methodology and findings should be easily and effectively applied across pes
 *European Union, European Parliament. (2015), Draft Report on Technological solutions to sustainable agriculture in the EU (2015/2225(INI)).
 *Field et al Voltage-gated sodium channels as targets for pyrethroid insecticides, 2017 (Biophysics in Europe)
 
+
 %%
-Pyrethroid insecticides have been the cornerstone of malaria prevention in Africa for almost two decades \cite{Bhatt2015} and they are currently used in all insecticide-treated bed-nets (ITNs)
+Since their discovery in the 1970s, synthetic pyrethroid insecticides have played an important role in pest insect management.
+
+Compared to naturally occurring pyrethroids, they are many times more insecticidally active and much less toxic to mammals (Casida 2010; Soderland 2014).
+%
+Pyrethroids have been the cornerstone of malaria prevention in Africa for almost two decades \cite{Bhatt2015} and they are currently used in all insecticide-treated bed-nets (ITNs)
 %
 Resistance to this class of insecticide is now widespread in malaria vector populations across Africa \cite{Hemingway2016}.
 %
@@ -68,9 +73,10 @@ Pyrethroids are also widely used in food security to protect crops from insects 
 It has been estimated that up to 40% of agricultural yields are lost to insect pests and diseases annually (EU, 2015),
 a value that could double without effective insecticides (ECPA, 2016).
 %
-The huge increase in global population that is predicted will in turn increase the pressure on sustainable food production.
+With the massive increase in human population predicted to continue, the pressure on sustainable food production can only increase.
 % 
-With limited insecticide rotation options, a better understanding and ability to track of insecticide resistance in natural populations will be necessary to inform the optimal strategy.
+Few, safe insecticidal chemical families mean limited insecticide rotation options, 
+a better understanding and ability to track of insecticide resistance in natural populations will therefore be necessary to inform the optimal strategy.
 %%
 
 
